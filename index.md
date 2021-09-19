@@ -6,7 +6,7 @@ You can view the source code of the mod [here](https://github.com/williamacbrown
 
 ### Summary of the mod
 
-This mod adds two new blocks and 2 new items to the game: The first of which is the "sudoku bag", which can be placed in a chest for a player to find. 
+This mod adds two new blocks and two new items to the game: The first of which is the "sudoku bag", which can be placed in a chest for a player to find. 
 
 ![image](/screenshots/bag.png)
 
