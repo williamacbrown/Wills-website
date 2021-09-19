@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/williamacbrown/Wills-websi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![image](/portal_cake.jpg)
+![image](/screenshots/wholeroom.png)
 
 ### Markdown
 
