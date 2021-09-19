@@ -1,39 +1,15 @@
-## Welcome to GitHub Pages
+## Sudokucraft: An open source sudoku mod for Minecraft 1.16.4
 
-You can use the [editor on GitHub](https://github.com/williamacbrown/Wills-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can view the source code of the mod [here](https://github.com/williamacbrown/Sudokucraft)
 
 ![image](/screenshots/wholeroom.png)
 
-### Markdown
+### Summary of the mod
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This mod adds two new blocks and 2 new items to the game: The first of which is the "sudoku bag", which can be placed in a chest for a player to find. 
 
-```markdown
-Syntax highlighted code block
+![image](/screenshots/bag.png)
 
-# Header 1
-## Header 2
-### Header 3
+When used, it fills the player's hotbar with markers, which can then be used to write numbers into each of the cells on the floor (each one a unique "sudoku block")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/williamacbrown/Wills-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](/screenshots/marker.png)
