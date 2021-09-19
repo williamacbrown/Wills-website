@@ -20,7 +20,7 @@ Another unique block- the "sudoku brain"- will check the grid on the floor to se
 
 When correct, the player will be congradulated, and they will have completed the puzzle and earned their reward!
 
-![image](/screenshots/correct.png)
+![image](/screenshots/solved.png)
 
 ### Creating your own puzzles
 
